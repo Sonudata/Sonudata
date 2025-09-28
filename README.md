@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Sonu Kumar
 
-<!--
-**Sonudata/Sonudata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech Electrical Engineering student with a passion for **Data Science, Analytics, and Machine Learning**.  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Data Science 📊  
+- Machine Learning 🤖  
+- Analytics 📈  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages
+- Hindi 🇮🇳  
+- English 🇬🇧  
+
+## 💻 Projects
+- [Restaurant Web App](https://github.com/Sonudata/Restaurant-web-app) – Full-stack web project  
+- Python Practice Problems – Daily coding exercises  
+- SQL Queries Practice – Hands-on SQL problem solving  
+
+## 📫 Connect with Me
+- Email: database1234e@gmail.com  
+- LinkedIn: [Sonu Kumar](https://www.linkedin.com/in/sonu-kumar-a296b6387/)  
+
+## ⚡ Fun Fact
+I love exploring new technologies and solving problems with data! 🚀  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonudata&show_icons=true&theme=radical)
